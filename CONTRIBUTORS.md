@@ -8597,6 +8597,11 @@ to explore life. Also, Python and Django Developer
 - Bio: Full Stack Developer
 - GitHub: [Juan Pablo Aguilar Lliguin](https://github.com/chefjuanpi)
 
+#### Name: [Julia B](https://github.com/juliadebelli)
+- Place: SP, Brazil
+- Bio: UI engineer
+- GitHub: [juliadebelli] (https://github.com/juliadebelli)
+
 #### Name: [Justin I](https://github.com/Jish80)
 - Place: IL, USA
 - Bio: Work hard
@@ -16680,4 +16685,3 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
-
